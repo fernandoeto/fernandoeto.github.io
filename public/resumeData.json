@@ -1,0 +1,190 @@
+{
+    "main": {
+        "name": "Fernando Satoru Eto",
+        "description": "Sou engenheiro da computação formado desde 2005 e agora sou estudante de pós-graduação com especialização em desenvolvimento de software com metodologias ágeis. E também sou aluno do curso de tecnologia em desenvolvimento de software multiplataforma.",
+        "image": "profilepic.jpg",
+        "bio": "Desde 2004 exerci minha carreira na área de infraestrutura e suporte técnico de TI, atuando com atendimento a usuários, gerenciamento de incidentes e problemas, desenvolvendo trajetória em empresas nacionais e multinacionais de pequeno a grande porte. Estou em fase de transição da minha carreira profissional e tenho interesse em prosseguir na área de desenvolvimento de software. Possuo conhecimentos em lógica de programação e linguagens como C#, Java, Python e Kotlin. Sou uma pessoa tranquila e paciente e procuro sempre ajudar minha equipe de forma colaborativa.",
+        "contactmessage": "Agradeço sua visita e aguardo o seu contato.",
+        "email": "fernando.eto@gmail.com",
+        "phone": "+55 (11) 99641-3638",
+        "github": "https://github.com/fernandoeto",
+        "project": "https://github.com/fernandoeto/designdigital",
+        "address": {
+            "street": "Av. Josino Vieira de Góes",
+            "city": "São Paulo",
+            "state": "SP"
+        },
+        "website": "http://fernanet.atwebpages.com",
+        "resumedownload": "http://fernanet.atwebpages.com/docs/fse_dev_cv.pdf",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/fernando.eto",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/FernandoEto",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/fernando-eto-72b68532",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/fernando.eto/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/fernandoeto",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Tenho facilidade em concentrar-se",
+        "education": [
+            {
+                "school": "Universidade Anhembi Morumbi",
+                "degree": "Especialista em desenvolvimento de software com metodologias ágeis",
+                "graduated": "Novembro 2021",
+                "description": "Minha primeira experiência de aprendizado pela modalidade EaD. Adquiri habilidades de aplicar os conhecimentos das metodologias ágeis como Scrum, Kanban e XP em times de desenvolvimento de software."
+            },
+            {
+                "school": "FATEC São José dos Campos - Prof. Jessen Vidal",
+                "degree": "Tecnólogo em desenvolvimento de software multiplataforma",
+                "graduated": "Junho 2024",
+                "description": "O aprendizado por projeto integrado (API) está oferecendo a oportunidade de aplicar os conhecimentos adquiridos nas disciplinas de forma prática por meio da atuação em times de desenvolvimento para resolver problemas do cotidiano nas empresas."
+            },
+            {
+                "school": "Centro Universitário Sant'Anna",
+                "degree": "Engenheiro da Computação",
+                "graduated": "Junho 2005",
+                "description": "O trabalho de conclusão do curso foi baseado em casos reais de clientes de uma empresa que desenvolve soluções de segurança por meio de processamento de imagens por endereço IP."
+            },
+            {
+                "school": "ETESP - Escola Técnica Estadual de São Paulo",
+                "degree": "Técnico em Informática",
+                "graduated": "Junho 2003",
+                "description": "Este curso foi essencial para adquirir uma base sólida em programação de computadores."
+            },
+            {
+                "school": "Escola SENAI Roberto Simonsen",
+                "degree": "Técnico em Mecânica",
+                "graduated": "Junho 2000",
+                "description": "Este curso foi fundamental para o acesso ao ensino superior porque forneceu os conhecimentos básicos necessários do ensino médio."
+            }
+            
+        ],
+        "work": [
+            {
+                "company": "Atento Brasil S/A",
+                "title": "Analista de Suporte - Atendimento II.",
+                "years": "Outubro 2019 - Abril 2020",
+                "description": "Prestação de serviços de suporte técnico por telefone a equipamentos médicos de saúde da Samsung."
+            },
+            {
+                "company": "Digisystem",
+                "title": "Analista de Suporte Jr.",
+                "years": "Novembro 2012 - Dezembro 2014",
+                "description": "Atendimento e suporte técnico nível 2 a estações de trabalho das unidades SESI e SENAI do estado de São Paulo. Auxílio e orientação para equipe de atendimento N1. Conferência com técnicos de suporte para solução de problemas nível 3. Documentação de procedimentos para resolução de problemas conhecidos. Organização da base de conhecimentos dos incidentes."
+            },
+            {
+                "company": "Softcorp",
+                "title": "Analista de Help Desk Jr.",
+                "years": "Novembro 2011 - Outubro 2012",
+                "description": "Prestação de serviços de suporte técnico local ao cliente Queiroz Galvão, incluindo instalação e configuração de sistemas operacionais Windows, drivers de impressoras, controle de acesso à rede local por cabo e Wi-Fi, preparação de salas de vídeo conferência, dispositivos Apple como iPhone e iPad. Suporte a equipamentos de Infraestrutura de TI (Servidores, unidades de fita de backup, Roteadores, Switches e Nobreaks)."
+            },
+            {
+                "company": "Gempi",
+                "title": "Analista de Infraestrutura Jr.",
+                "years": "Janeiro 2011 - Abril 2011",
+                "description": "Administração de usuários de domínios (Criação, exclusão e alteração de contas de usuários e grupos). Suporte técnico local a estações de trabalho e impressoras. Suporte a servidores (Aplicação, Domínio e Arquivos)."
+            },
+            {
+                "company": "Sonda Procwork",
+                "title": "Analista de Suporte Jr.",
+                "years": "Setembro 2006 - Janeiro 2011",
+                "description": "Prestação de serviços de atendimento e suporte técnico por telefone e acesso remoto às lojas de empréstimo pessoal do Banco Cacique (Nacional). Instalação e configuração de impressoras fiscais, acesso ao sistema via web e toda infraestrutura de rede local. Registro de protocolos junto a operadoras de telecomunicações do local e acompanhamento do status do serviço de internet. Responsável pela implantação do processo de gestão de ocorrências com objetivo de gerar base de conhecimento para TI."
+            },
+            {
+                "company": "Brás e Figueiredo",
+                "title": "Analista de Suporte Jr. II",
+                "years": "Agosto 2006 - Setembro 2006",
+                "description": "Prestação de serviços de suporte técnico local ao cliente Toyota do Brasil, incluindo criação e configuração de contas de e-mail corporativo utilizando ferramentas de acesso do servidor Lotus Dominio, configuração de ramal do Cisco IP Phone e preparação de salas de reuniões para vídeo conferência. Acompanhamento de rotinas de backup em servidores de arquivos e e-mail."
+            },
+            {
+                "company": "Momentum Empreendimentos Imobiliários Ltda.",
+                "title": "Analista de Suporte Jr.",
+                "years": "Setembro 2005 - Junho 2006",
+                "description": "Suporte local a usuários de Windows e Linux, incluindo configuração do navegador de internet para acesso ao sistema interno da empresa, instalação e configuração de drivers de impressoras, pacote Office (Word, Excel, PowerPoint e Outlook) e pontos de rede. Suporte a Infraestrutura de redes e servidores, incluindo Active Directory, Samba, Iptables e Squid. Acompanhamento e execução de rotinas de backup em servidores de arquivos."
+            },
+            {
+                "company": "Bull Ltda.",
+                "title": "Estagiário de nível superior",
+                "years": "Junho 2004 - Junho 2005",
+                "description": "Suporte local e por telefone a usuários de Windows 98/ME/2000/XP, Office 97/2000/XP/2003, clientes de e-mails Lotus Notes, Internet Explorer e Symantec Antivírus 9. Instalação, configuração e manutenção de softwares (Windows 98/ME/2000/XP, drivers de dispositivos de hardware, Office 97/2000/XP/2003, protocolos TCP/IP e IPX/SPX, Lotus Notes 5, clientes de banco de dados Oracle e Progress e Symantec Antivírus 9). Suporte a servidores de e-mails (Lotus Domino) e servidor de arquivos e impressão."
+            },
+            {
+                "company": "All Supply Comércio Importação e Exportação Ltda.",
+                "title": "Estagiário de nível superior",
+                "years": "Abril 2004 - Junho 2004",
+                "description": "Responsável pelo desenvolvimento do site da empresa http://www.allsupply.com.br, suporte à rede local e treinamento dos funcionários quanto à utilização do sistema interno da empresa."
+            },
+            {
+                "company": "Elecnor do Brasil",
+                "title": "Estagiário de nível técnico",
+                "years": "Março 2001 - Abril 2001",
+                "description": "Digitalização de desenhos técnicos de projetos de cabeamentos telefônicos utilizando a ferramenta Microstation Power Draft (Bentley)."
+            },
+            {
+                "company": "Rolamentos FAG Ltda.",
+                "title": "Estagiário de nível técnico",
+                "years": "Maio 2005 - Outubro 2005",
+                "description": "Digitalização de desenhos técnicos de ferramentas utilizando o AutoCAD. Orientação para os operadores de máquinas quanto ao uso correto das ferramentas."
+            },
+            {
+                "company": "Armafer Aços para Construção Civil - Grupo Gerdau",
+                "title": "Estagiário de nível técnico",
+                "years": "Fevereiro 2000 - Março 2000",
+                "description": "Acompanhamento de manutenções corretivas e preventivas em máquinas de cortes e dobras de vergalhões."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "20%"
+            },
+            {
+                "name": "C#",
+                "level": "20%"
+            },
+            {
+                "name": "Kotlin",
+                "level": "30%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            },
+            {
+                "name": "JAVA",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "FATEC SJC - Projeto API",
+                "category": "Desenvolvimento de aplicação web conforme solicitação do cliente.",
+                "image": "AP_logo.png",
+                "url": "https://github.com/TheAchieversDSM/A.P.I---2021-2"
+            }
+           
+        ]
+    }
+}
