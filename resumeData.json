@@ -49,19 +49,19 @@
         "education": [
             {
                 "school": "Universidade Anhembi Morumbi",
-                "degree": "Especialista em desenvolvimento de software com metodologias ágeis",
+                "degree": "Pós-graduação com especialização em desenvolvimento de software com metodologias ágeis",
                 "graduated": "Novembro 2021",
                 "description": "Minha primeira experiência de aprendizado pela modalidade EaD. Adquiri habilidades de aplicar os conhecimentos das metodologias ágeis como Scrum, Kanban e XP em times de desenvolvimento de software."
             },
             {
                 "school": "FATEC São José dos Campos - Prof. Jessen Vidal",
-                "degree": "Tecnólogo em desenvolvimento de software multiplataforma",
+                "degree": "Tecnologia em desenvolvimento de software multiplataforma",
                 "graduated": "Junho 2024",
                 "description": "O aprendizado por projeto integrado (API) está oferecendo a oportunidade de aplicar os conhecimentos adquiridos nas disciplinas de forma prática por meio da atuação em times de desenvolvimento para resolver problemas do cotidiano nas empresas."
             },
             {
                 "school": "Centro Universitário Sant'Anna",
-                "degree": "Engenheiro da Computação",
+                "degree": "Engenharia da Computação",
                 "graduated": "Junho 2005",
                 "description": "O trabalho de conclusão do curso foi baseado em casos reais de clientes de uma empresa que desenvolve soluções de segurança por meio de processamento de imagens por endereço IP."
             },
