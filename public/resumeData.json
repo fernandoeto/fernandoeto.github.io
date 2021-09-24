@@ -1,7 +1,7 @@
 {
     "main": {
         "name": "Fernando Satoru Eto",
-        "description": "Sou engenheiro da computação formado desde 2005 e hoje sou estudante de pós-graduação em desenvolvimento de software com metodologias ágeis. E também sou aluno do curso de tecnologia em desenvolvimento de software multiplataforma da FATEC.",
+        "description": "Olá, seja bem vindo! Sou engenheiro da computação formado desde 2005 e hoje sou estudante de pós-graduação em desenvolvimento de software com metodologias ágeis. E também sou aluno do curso de tecnologia em desenvolvimento de software multiplataforma da FATECg.",
         "image": "profilepic.jpg",
         "bio": "Desde 2004 exerci minha carreira na área de infraestrutura e suporte técnico de TI, atuando com atendimento a usuários, gerenciamento de incidentes e problemas, desenvolvendo trajetória em empresas nacionais e multinacionais de pequeno a grande porte. Estou em fase de transição da minha carreira profissional e tenho interesse em prosseguir na área de desenvolvimento de software. Possuo conhecimentos em lógica de programação e linguagens como C#, Java, Python e Kotlin. No período de janeiro de 2015 a maio de 2018 morei e trabalhei no Japão. Durante três anos e meio fui funcionário da empreiteira Suri-Emu Group, responsável pela alocação de mão-de-obra em fábricas japonesas. Por nove meses, atuei como operador de máquina na Sony de Kota e minha função era fazer o abastecimento de matéria-prima em máquinas de produção de lentes para câmeras, filmadoras e celulares. Outra fábrica japonesa que prestei serviço como operador de máquina foi para o grupo Aisin Seiki de Hekinan. Durante dois anos e meio, fui responsável pelo abastecimento de linhas de produção de tetos-solares para montadoras como Toyota, Honda, Nissan, Mitsubishi e Subaru.",
         "contactmessage": "Agradeço sua visita e aguardo o seu contato.",
@@ -168,7 +168,7 @@
             },
             {
                 "name": "CSS",
-                "level": "70%"
+                "level": "50%"
             },
             {
                 "name": "JAVA",
